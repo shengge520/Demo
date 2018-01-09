@@ -1,0 +1,320 @@
+.attrs{
+    display:block;
+}
+.attrs{
+    border-top:1px solid #E6E2E1;
+}
+
+.brandAttr{
+    border:1px solid #e1e1e1;
+    width: 1190px;
+    height:300px;
+    margin: 0 auto 0 105px;
+}
+.brandAttr attr{
+    border: 2px solid #D1CCC7;
+    margin-top: -1px;
+}
+.attr{
+    background-color: #F5F5F5;
+    border-style: solid solid dotted;
+    border-width:0 1px 1px;
+    float: left;
+    width: 100%;
+}
+
+.brandAttr .attrKey{
+    padding-top: 9px;
+    font-size: 12px;
+    float: left;
+    width: 10%;
+}
+.attrKey{
+    display: block;
+    width: 118px;
+    height: 16px;
+    line-height: 16px;
+    overflow: hidden;
+}
+.attrkey{
+    float: left;
+    padding: 7px 0 0;
+    width: 10%;
+   color: #B0A59F;
+}
+.attrKey{
+    white-space: normal;
+    text-overflow: ellipsis;
+}
+.brandAttr attrValues{
+       padding-top: 6px;
+
+}
+
+
+.attrValues{
+    position: relative;
+    float: left;
+    width:90%;
+    background-color: #FFF;
+
+    overflow: hidden;
+
+}
+
+
+.brandAttr .showLogo .av-collapse .row-1{
+    padding: 0 0 0 92px;
+    max-height: 53px;
+}
+.brandAttr .showLogo .av-collapse{
+    max-height: 55px;
+}
+.brandAttr .av-collapse .row-1{
+    max-height: 30px;
+}
+.brandAttr .showLogo ul{
+    padding-top: 1px;
+    margin-bottom: 5px;
+}
+.brandAttr ul av-collapse{
+    overflow: hidden;
+}
+.brandAttr .av-collapse{
+    overflow: hidden;
+    max-height: 60px;
+}
+
+.attrValues ul{
+    position: relative;
+    margin-right: 105px;
+    margin-left: 25px;
+}
+ul{
+    list-style: none;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.brandAttr .showLogo li{
+    border: 1px solid #e1e1e1;
+    width: 104px;
+    text-align: center;
+    height: 52px;
+    line-height: 52px;
+    overflow: hidden;
+    margin: -1px -1px 0 0;
+}
+.brandAttr li{
+    margin: 0 8px 8px 0;
+}
+.attrValues li{
+    float: left;
+    height: 22px;
+    line-height: 22px;
+}
+li{
+    margin: 0;
+    padding: 0;
+}
+
+
+.brandAttr .showLogo li a {
+    float: left;
+    padding: 0;
+    height: 50px;
+    line-height: 50px;
+    width: 102px;
+    overflow: hidden;
+    border: 1px solid transparent;
+}
+.brandAttr li a{
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+ .attrValues li a{
+     position: relative;
+     color: #806F66;
+     display: inline-block;
+     padding: 1px 20px 1px 4px;
+     line-height: 20px;
+     height: 20px;
+     white-space: nowrap;
+ }
+ .attrs a{
+     outline: 0;
+ }
+ a{
+     outline: 0;
+ }
+ a{
+     text-decoration: none;
+ }
+
+
+
+.brandAttr .showLogo li a img{
+    display: inline;
+    width: 80px;
+    height: 40px;
+    margin: 6px 12px;
+}
+.brandAttr li a img{
+    display: none;
+}
+img{
+    border: 0;
+}
+
+
+
+
+
+
+.brandAttr .av-expand{
+    margin-right:30px;
+}
+.av-expand{
+    padding-right: 82px;
+}
+.brandAttr  ul{
+    padding-top: 1px;
+    margin-bottom: 5px;
+}
+.attrValues ul.av-collapse{
+    overflow: hidden;
+}
+.brandAttr .av-collapse{
+    overflow: hidden;
+    height: 398px;
+}
+.attrValues ul{
+    position: relative;
+    margin-right: 64px;
+    margin-left: 25px;
+}
+ul{
+    list-style: none;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+.attrValues li a{
+    position: relative;
+    color: #806F66;
+    display: inline-block;
+    padding: 1px 0 0 0;
+    line-height: 20px;
+    height: 20px;
+    white-space: normal;
+
+}
+
+
+
+
+.brandAttr  .av-options{
+
+    padding-top: 7px;
+    font-size: 12px;
+}
+.av-options{
+    padding: 0 0 0 34px;
+    position: absolute;
+    right: 0;
+    top: 2px;
+    width: 105px;
+    z-index: 1;
+}
+
+
+
+
+.attrs a{
+    outline: 0;
+}
+
+.avo-multiple{
+    float: left;
+    background-color: #F2F0EF;
+    border: 1px solid #EFEBE9;
+    color: #806F66;
+    cursor: pointer;
+    line-height: 14px !important;
+    margin: 6px 5px 5px 0;
+    padding-right: 3px;
+    position: relative;
+    text-align: right;
+    width: 43px;
+}
+
+a{
+    outline: 0;
+}
+a{
+    text-decoration: none;
+}
+
+
+.attrs a{
+    outline: 0;
+}
+.avo-more{
+    float: right;
+
+}
+.avo-more{
+    display: none;
+}
+.ui-more-drop-1{
+    vertical-align: middle;
+    position: relative;
+    display: inline-block;
+    height: 25px;
+    line-height: 26px;
+    padding: 0 24px 0 0;
+    color: #806f66;
+}
+a{
+    outline: 0;
+}
+a{
+    text-decoration: none;
+}
+i{
+    font-style: normal;
+}
+
+.ui-more-drop-1-arrow{
+    position: absolute;
+    display: inline-block;
+    top: 11px;
+    right: 10px;
+    height: 5px;
+    line-height: 5px;
+    width: 9px;
+    overflow: hidden;
+    background-position: -2px -66px;
+}
+.ui-more-drop-1-arrow{
+    background: url("img/12.png") no-repeat;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
